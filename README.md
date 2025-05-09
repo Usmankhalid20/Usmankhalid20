@@ -11,7 +11,7 @@ I'm a passionate **Frontend & Full-Stack Developer** with 2+ years of experience
 
 - 🔹 HTML5, CSS3, JavaScript (ES6+), Tailwind, Bootstrap  
 - 🔹 React.js, Node.js, Express.js, MongoDB  
-- 🔹 WordPress (Custom Themes, )  
+- 🔹 WordPress Custom Themes  
 - 🔹 Elementor, SEO-optimized solutions
 
 I love bringing ideas to life through **pixel-perfect design**, **clean code**, and **high performance**.
