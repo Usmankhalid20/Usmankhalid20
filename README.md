@@ -49,9 +49,9 @@ I love bringing ideas to life through **pixel-perfect design**, **clean code**, 
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/usman-khalid-9a2bb72b7/)  
 - 🌐 [Portfolio Website](https://yourwebsite.com)  
-- ✉️ usmankhalid2019@gmail.com  
+- ✉️ cadetusman2205@gmail.com  
 - 📍 Available for freelance or full-time remote work
 
 ---
