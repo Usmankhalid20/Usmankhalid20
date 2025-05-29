@@ -24,14 +24,6 @@ I love bringing ideas to life through **pixel-perfect design**, **clean code**, 
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [Life-Timer](https://github.com/Usmankhalid20/Life-Timer) | A web app that calculates and displays your life in years, months, days, hours, and seconds. Built with HTML, CSS, JavaScript. |
-| [QR Code Decoder](https://github.com/Usmankhalid20/QR-Code) | A tool to decode QR codes and convert them into downloadable PDFs using JS. |
-| [Tip Calculator](https://github.com/Usmankhalid20/Tip-calculator) | A basic tip calculator built with JavaScript, designed for beginners. |
-
 ---
 
 ## 🧰 Tech Stack
