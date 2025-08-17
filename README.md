@@ -1,4 +1,3 @@
-:
 
 👋 Hi, I’m Usman
 
@@ -15,3 +14,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 State Management: Zustand
+
